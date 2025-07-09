@@ -294,7 +294,7 @@ Frontend: `https://dashboard.fastapi-project.example.com`
 
 Backend API docs: `https://api.fastapi-project.example.com/docs`
 
-Backend API base URL: `https://api.fastapi-project.example.com`
+Backend API base URL: `https://api.fastapi-project.example.com` 
 
 Adminer: `https://adminer.fastapi-project.example.com`
 
